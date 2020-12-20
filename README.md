@@ -1,9 +1,9 @@
 # Website Templates
 
-- [Jolla](https://seankross.com/cards-templates/jolla/)
-- [Jolla Blue](https://seankross.com/cards-templates/jolla-blue/)
-- [Trestles](https://seankross.com/cards-templates/trestles/)
-- [Onofre](https://seankross.com/cards-templates/onofre/)
+- [Jolla](https://seankross.com/postcards-templates/jolla/)
+- [Jolla Blue](https://seankross.com/postcards-templates/jolla-blue/)
+- [Trestles](https://seankross.com/postcards-templates/trestles/)
+- [Onofre](https://seankross.com/postcards-templates/onofre/)
 
 ## License
 
