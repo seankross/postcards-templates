@@ -4,6 +4,7 @@
 - [Jolla Blue](https://seankross.com/postcards-templates/jolla-blue/)
 - [Trestles](https://seankross.com/postcards-templates/trestles/)
 - [Onofre](https://seankross.com/postcards-templates/onofre/)
+- [Solana](https://seankross.com/postcards-templates/solana/)
 
 ## License
 
